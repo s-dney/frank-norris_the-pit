@@ -55,14 +55,14 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A couple navigates the murky waters of greed, ambition, and loss in the wheat speculation pits of the Chicago Board of Trade.</dc:description>
+		<dc:description id="description">A turn-of-the-century Chicago couple navigates the murky waters of greed, ambition, and loss against the backdrop of the Board of Trade's wheat speculation pits.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Laura Dearborn says she will never marry. Living with her sister and aunt in turn-of-the-century Chicago, she is content with her comfortable, studious life. With three suitors eager to win her love, however, Laura must decide between the disparate futures each could provide her. And as speculators struggle for control of the market in the wheat pits of the Chicago Board of Trade, each of those very futures may hang in the balance.&lt;/p&gt;
+			&lt;p&gt;Frank Norris intended &lt;i&gt;The Pit&lt;/i&gt; to be the second installment in &lt;a href="https://standardebooks.org/collections/the-epic-of-the-wheat"&gt;The Epic of the Wheat&lt;/a&gt;, a trilogy of standalone novels describing the journey of a shipment of wheat from its harvest in California, through the speculation pits of Chicago, and finally to its consumption in famine-stricken Western Europe. The first novel, &lt;i&gt;The Octopus&lt;/i&gt;, was published in 1901; after Norris died unexpectedly in 1902, &lt;i&gt;The Pit&lt;/i&gt; was published posthumously in 1903 and the trilogy was left unfinished.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4382</dc:source>
 		<dc:source>https://archive.org/details/pit0000fran</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Pit_(Norris_novel)</meta>
