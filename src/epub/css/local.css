@@ -11,6 +11,13 @@ section[epub|type~="dedication"] > *{
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
+	text-indent: 0;
+}
+
+section[epub|type~="dedication"] :first-child{
+	font-weight: bold;
+	padding-bottom: 3em;
+	font-size: x-large;
 }
 
 @supports(display: flex){
