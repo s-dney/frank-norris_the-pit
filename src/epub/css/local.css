@@ -103,3 +103,9 @@ section[epub|type~="preface"]{
 [epub|type~="z3998:dramatis-personae"] ul + p{
 	margin-top: 2em;
 }
+
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
